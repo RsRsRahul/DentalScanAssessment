@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/api/messages/route": "app/api/messages/route.js",
+  "/api/scans/upload/route": "app/api/scans/upload/route.js",
+  "/api/notifications/scan-completed/route": "app/api/notifications/scan-completed/route.js"
+}
